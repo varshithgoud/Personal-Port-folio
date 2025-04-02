@@ -11,13 +11,13 @@
 AWS Certified Developer Associate with expertise in enterprise application architecture, design, and development. Seeking to leverage my 4+ years of experience in Java and modern frameworks to contribute to a dynamic organization that values scalable, robust solutions and offers opportunities for professional growth.
 
 ## 💻 Skills & Technologies
-Programming Languages: Java, JavaScript, Python, C#, SQL, HTML, CSS
-Frameworks: Spring Boot, Spring MVC, Spring Cloud, Hibernate
-Database: Oracle, MySQL, SQL Server, PL/SQL, JDBC, Spring Data JPA, CQL, Apache Cassandra
-Tools & Technologies: Maven, Log4j, JUnit, Kafka, RESTful API Development, Git, Docker, Kubernetes, Jenkins, GitHub Actions
-Operating System: Windows, Linux, Mac
-Cloud Technologies: AWS, Spring Cloud
-Other: Data Structures with Java, Unix, Shell Scripting, Machine Learning, Apache JMS, Microservices, RESTful APIs, CI/CD, Web Application Development
+-Programming Languages: Java, JavaScript, Python, C#, SQL, HTML, CSS
+-Frameworks: Spring Boot, Spring MVC, Spring Cloud, Hibernate
+-Database: Oracle, MySQL, SQL Server, PL/SQL, JDBC, Spring Data JPA, CQL, Apache Cassandra
+-Tools & Technologies: Maven, Log4j, JUnit, Kafka, RESTful API Development, Git, Docker, Kubernetes, Jenkins, GitHub Actions
+-Operating System: Windows, Linux, Mac
+-Cloud Technologies: AWS, Spring Cloud
+-Other: Data Structures with Java, Unix, Shell Scripting, Machine Learning, Apache JMS, Microservices, RESTful APIs, CI/CD, Web Application Development
 
 ## 🚀 Career Profile
 - **4+ years of experience** in Java development, specializing in enterprise application architecture and design

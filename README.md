@@ -38,7 +38,7 @@ AWS Certified Developer Associate with expertise in enterprise application archi
 - Conducted office hours to provide additional assistance with data structures and algorithms
 
 ### Software Development Engineer, SMG InfoTech
-**September 2022 - June 2023** | Location not specified
+**September 2021 - June 2023** | Location not specified
 - Developed high-performance backend APIs for scalable applications using Java, Spring Boot, and RESTful web services
 - Implemented microservices architecture serving over 1M daily active users, ensuring modularity and scalability
 - Designed and optimized database schemas for PostgreSQL and DynamoDB, reducing query execution times by 30%
@@ -51,7 +51,7 @@ AWS Certified Developer Associate with expertise in enterprise application archi
 - Actively participated in Agile ceremonies, collaborating with product owners to deliver features on schedule
 
 ### Software Engineer Intern, SMG InfoTech
-**June 2020 - September 2021** | Location not specified
+**June 2020 - April 2021** | Location not specified
 - Developed end-to-end features for web applications using Java, Spring MVC, and Hibernate
 - Migrated a legacy monolithic application to Spring-based microservices, reducing deployment downtime by 20%
 - Created reusable libraries for logging, exception handling, and configuration management, increasing developer productivity by 15%
@@ -82,4 +82,8 @@ AWS Certified Developer Associate with expertise in enterprise application archi
 
 ## 📜 Certifications
 - **AWS Certified Developer – Associate**
+- **Software Engineering Job Simulation** - J.P. Morgan**
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 - **Google Data Analytics Specialization**
+- **AWS Cloud Quest: Cloud Practitioner**
+    

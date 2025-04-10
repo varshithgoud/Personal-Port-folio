@@ -4,8 +4,8 @@
 - **E-Mail:** gsaivarshith02@gmail.com
 - **Mobile:** +1 (940) 703-2747
 - **Location:** Denton, TX, USA
-- **LinkedIn:** [Sai Varshith Gandu](https://www.linkedin.com/in/saivarshithgandu/)
-- **GitHub:** [Sai Varshith Gandu](https://github.com/saivarshithgandu)
+- **LinkedIn:** [Sai Varshith Gandu](https://www.linkedin.com/in/sai-varshith-goud-3260551b5/)
+- **GitHub:** [Sai Varshith Gandu](https://github.com/varshithgoud)
 
 ## 🎯 Career Objective
 AWS Certified Developer Associate with expertise in enterprise application architecture, design, and development. Seeking to leverage my 4+ years of experience in Java and modern frameworks to contribute to a dynamic organization that values scalable, robust solutions and offers opportunities for professional growth.
